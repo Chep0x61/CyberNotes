@@ -242,3 +242,87 @@ Collecting and storing user activities in a log, which is a record of the events
  
 ### Logical Access Control Systems :
 An automated system that controls an individual’s ability to access one or more computer system resources, such as a workstation, network, application or database. A logical access control system requires the validation of an individual’s identity through some mechanism, such as a PIN, card, biometric or other token. It has the capability to assign different access privileges to different individuals depending on their roles and responsibilities in an organization.
+
+### Man-in-the-Middle :
+An attack where the adversary positions himself in between the user and the system so that he can intercept and alter data traveling between them.
+ 
+### Mandatory Access Control :
+Access control that requires the system itself to manage access controls in accordance with the organization’s security policies.
+ 
+### Mantrap :
+An entrance to a building or an area that requires people to pass through two doors with only one door opened at a time.
+ 
+### Message Digest :
+A digital signature that uniquely identifies data and has the property such that changing a single bit in the data will cause a completely different message digest to be generated. NISTIR-8011 Vol.3
+ 
+### Microsegmentation :
+Part of a zero-trust strategy that breaks LANs into very small, highly localized zones using firewalls or similar technologies. At the limit, this places a firewall at every connection point.
+ 
+### Multi-Factor Authentication :
+Using two or more distinct instances of the three factors of authentication (something you know, something you have, something you are) for identity verification.
+ 
+### National Institutes of Standards and Technology (NIST) :
+The NIST is part of the U.S. Department of Commerce and addresses the measurement infrastructure within science and technology efforts within the U.S. federal government. NIST sets standards in a number of areas, including information security within the Computer Security Resource Center of the Computer Security Divisions.
+ 
+### Non-repudiation :
+The inability to deny taking an action such as creating information, approving information and sending or receiving a message.
+ 
+### Object :
+Passive information system-related entity (e.g., devices, files, records, tables, processes, programs, domains) containing or receiving information. Access to an object (by a subject) implies access to the information it contains. See subject.
+
+### Operating System :
+The software “master control application” that runs the computer. It is the first program loaded when the computer is turned on, and its main component, the kernel, resides in memory at all times. The operating system sets the standards for all application programs (such as the Web server) that run in the computer. The applications communicate with the operating system for most user interface and file management operations.
+ 
+### Oversized Packet Attack :
+Purposely sending a network packet that is larger than expected or larger than can be handled by the receiving system, causing the receiving system to fail unexpectedly.
+ 
+### Packet :
+Representation of data at Layer 3 of the Open Systems Interconnection (OSI) model.
+ 
+### Patch :
+A software component that, when installed, directly modifies files or device settings related to a different software component without changing the version number or release details for the related software component. Source: ISO/IEC 19770-2
+ 
+### Patch Management :
+The systematic notification, identification, deployment, installation and verification of operating system and application software code revisions. These revisions are known as patches, hotfixes, and service packs.
+
+### Payload :
+The primary action of a malicious code attack.
+ 
+### Payment Card Industry Data Security Standard (PCI DSS) :
+An information security standard administered by the Payment Card Industry Security Standards Council that applies to merchants and service providers who process credit or debit card transactions.
+ 
+### Personally Identifiable Information (PII) :
+The National Institute of Standards and Technology, known as NIST, in its Special Publication 800-122 defines PII as “any information about an individual maintained by an agency, including (1) any information that can be used to distinguish or trace an individual’s identity, such as name, Social Security number, date and place of birth, mother’s maiden name, or biometric records; and (2) any other information that is linked or linkable to an individual, such as medical, educational, financial and employment information.”.
+ 
+### Physical Controls :
+Controls implemented through a tangible mechanism. Examples include walls, fences, guards, locks, etc. In modern organizations, many physical control systems are linked to technical/logical systems, such as badge readers connected to door locks. Also known as Physical Access Controls.
+ 
+### Plaintext :
+A message or data in its natural format and in readable form; extremely vulnerable from a confidentiality perspective.
+ 
+### Platform as a Service (PaaS) :
+The web-authoring or application development middleware environment that allows applications to be built in the cloud before they’re deployed as SaaS assets.
+ 
+### Privacy :
+The right of an individual to control the distribution of information about themselves.
+ 
+### Private Cloud :
+A cloud computing platform that is implemented within the corporate firewall, under the control of the IT department. A private cloud is designed to offer the same features and benefits of cloud systems but removes a number of objections to the cloud computing model, including control over enterprise and customer data, worries about security, and issues connected to regulatory compliance.
+ 
+### Principle of Least Privilege :
+The principle that users and programs should have only the minimum privileges necessary to complete their tasks.
+ 
+### Privileged Account :
+An information system account with approved authorizations of a privileged user.
+ 
+### Probability :
+The chances, or likelihood, that a given threat is capable of exploiting a given vulnerability or a set of vulnerabilities.
+ 
+### Protected Health Information (PHI) :
+Information regarding health status, the provision of healthcare or payment for healthcare as defined in HIPAA (Health Insurance Portability and Accountability Act).
+ 
+### Protocols :
+A set of rules (formats and procedures) to implement and control some type of association (that is, communication) between systems.
+ 
+### Public Cloud :
+The cloud infrastructure is provisioned for open use by the general public. It may be owned, managed, and operated by a business, academic, or government organization, or some combination of them. It exists on the premises of the cloud provider.
