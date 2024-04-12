@@ -173,3 +173,72 @@ In 2016, the European Union passed comprehensive legislation that addresses pers
 
 ### Governance :
 The process of how an organization is managed; usually includes all aspects of how decisions are made for that organization, such as policies, roles and procedures.
+
+### Impact :
+The magnitude of harm that could be caused by a threat’s exercise of a vulnerability.
+ 
+### Incident :
+An event that actually or potentially jeopardizes the confidentiality, integrity or availability of an information system or the information the system processes, stores or transmits.
+ 
+### Incident Handling or Incident Response (IR) :
+The process of detecting and analyzing incidents to limit the incident's effect.
+ 
+### Incident Response Plan (IRP) :
+The documentation of a predetermined set of instructions or procedures to detect, respond to and limit consequences of a malicious cyberattack against an organization’s information systems(s).
+
+### Information Security Risk :
+The potential adverse impacts to an organization’s operations (including its mission, functions and image and reputation), assets, individuals, other organizations, and even the nation, which results from the possibility of unauthorized access, use, disclosure, disruption, modification or destruction of information and/or information systems.
+
+### Infrastructure as a Service (IaaS) :
+The provider of the core computing, storage and network hardware and software that is the foundation upon which organizations can build and then deploy applications. IaaS is popular in the data center where software and servers are purchased as a fully outsourced service and usually billed on usage and how much of the resource is used.
+ 
+### Ingress Monitoring :
+Monitoring of incoming network traffic.
+ 
+### Insider Threat :
+An entity with authorized access that has the potential to harm an information system through destruction, disclosure, modification of data, and/or denial of service.
+ 
+### Institute of Electrical and Electronics Engineers (IEEE) :
+IEEE is a professional organization that sets standards for telecommunications, computer engineering and similar disciplines.
+ 
+### Integrity :
+The property of information whereby it is recorded, used and maintained in a way that ensures its completeness, accuracy, internal consistency and usefulness for a stated purpose.
+ 
+### International Organization of Standards (ISO) :
+The ISO develops voluntary international standards in collaboration with its partners in international standardization, the International Electro-technical Commission (IEC) and the International Telecommunication Union (ITU), particularly in the field of information and communication technologies.
+ 
+### Internet Control Message Protocol (ICMP) :
+An IP network protocol standardized by the Internet Engineering Task Force (IETF) through RFC 792 to determine if a particular service or host is available.
+ 
+### Internet Engineering Task Force (IETF) :
+The internet standards organization, made up of network designers, operators, vendors and researchers, that defines protocol standards (e.g., IP, TCP, DNS) through a process of collaboration and consensus.
+ 
+### Internet Protocol (IPv4) :
+Standard protocol for transmission of data from source to destinations in packet-switched communications networks and interconnected systems of such networks. CNSSI 4009-2015
+ 
+### Intrusion :
+A security event, or combination of security events, that constitutes a security incident in which an intruder gains, or attempts to gain, access to a system or system resource without authorization.
+ 
+### iOS :
+An operating system manufactured by Apple Inc. Used for mobile devices.
+ 
+### Layered Defense :
+The use of multiple controls arranged in series to provide several consecutive controls to protect an asset; also called defense in depth.
+ 
+### Likelihood :
+The probability that a potential vulnerability may be exercised within the construct of the associated threat environment.
+ 
+### Likelihood of Occurrence :
+A weighted factor based on a subjective analysis of the probability that a given threat is capable of exploiting a given vulnerability or set of vulnerabilities.
+ 
+### Linux :
+An operating system that is open source, making its source code legally available to end users.
+ 
+### Log Anomaly :
+A system irregularity that is identified when studying log entries which could represent events of interest for further surveillance.
+ 
+### Logging :
+Collecting and storing user activities in a log, which is a record of the events occurring within an organization’s systems and networks.
+ 
+### Logical Access Control Systems :
+An automated system that controls an individual’s ability to access one or more computer system resources, such as a workstation, network, application or database. A logical access control system requires the validation of an individual’s identity through some mechanism, such as a PIN, card, biometric or other token. It has the capability to assign different access privileges to different individuals depending on their roles and responsibilities in an organization.
