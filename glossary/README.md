@@ -431,3 +431,57 @@ An algorithm that uses the same key in both the encryption and the decryption pr
  
 ### System Integrity :
 The quality that a system has when it performs its intended function in an unimpaired manner, free from unauthorized manipulation of the system, whether intentional or accidental.
+
+### Technical Controls :
+The security controls (i.e., safeguards or countermeasures) for an information system that are primarily implemented and executed by the information system through mechanisms contained in the hardware, software or firmware components of the system.
+
+### Threat :
+Any circumstance or event with the potential to adversely impact organizational operations (including mission, functions, image or reputation), organizational assets, individuals, other organizations or the nation through an information system via unauthorized access, destruction, disclosure, modification of information and/or denial of service.
+     
+### Threat Actor :
+An individual or a group that attempts to exploit vulnerabilities to cause or force a threat to occur.
+     
+### Threat Vector :
+The means by which a threat actor carries out their objectives.
+
+### Token :
+A physical object a user possesses and controls that is used to authenticate the user’s identity.
+
+### Transport Control Protocol/Internet Protocol (TCP/IP) Model :
+Internet working protocol model created by the IETF, which specifies four layers of functionality: Link layer (physical communications), Internet Layer (network-to-network communication), Transport Layer (basic channels for connections and connectionless exchange of data between hosts), and Application Layer, where other protocols and user applications programs make use of network services.
+
+### Turnstile :
+A one-way spinning door or barrier that allows only one person at a time to enter a building or pass through an area.
+
+### Unix :
+An operating system used in software development.
+
+### User Provisioning :
+The process of creating, maintaining and deactivating user identities on a system.
+
+### Virtual Local Area Network (VLAN) :
+A logical group of workstations, servers, and network devices that appear to be on the same LAN despite their geographical distribution.
+
+### Virtual Private Network (VPN) :
+A virtual private network, built on top of existing networks, that can provide a secure communications mechanism for transmission between networks.
+
+### Vulnerability :
+Weakness in an information system, system security procedures, internal controls or implementation that could be exploited by a threat source.
+
+### Web Server :
+A computer that provides World Wide Web (WWW) services on the Internet. It includes the hardware, operating system, Web server software, and Web site content (Web pages). If the Web server is used internally and not by the public, it may be known as an “intranet server.”.
+
+### Whaling Attack :
+Phishing attacks that attempt to trick highly placed officials or private individuals with sizable assets into authorizing large fund wire transfers to previously unknown entities.
+
+### Wireless Area Network (WLAN) :
+A group of computers and devices that are located in the same vicinity, forming a network based on radio transmissions rather than wired connections. A Wi-Fi network is a type of WLAN.
+
+### Zenmap :
+The graphical user interface (GUI) for the Nmap Security Scanner, an open-source application that scans networks to determine everything that is connected as well as other information.
+
+### Zero Day :
+A previously unknown system vulnerability with the potential of exploitation without risk of detection or prevention because it does not, in general, fit recognized patterns, signatures or methods.
+
+### Zero Trust :
+Removing the design belief that the network has any trusted space. Security is managed at each possible level, representing the most granular asset. Microsegmentation of workloads is a tool of the model.
