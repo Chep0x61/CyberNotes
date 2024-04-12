@@ -42,7 +42,7 @@ A documented, lowest level of security configuration allowed by a standard or or
 ### Biometric :
 Biological characteristics of an individual, such as a fingerprint, hand geometry, voice, or iris patterns.
  
-###Bit :
+### Bit :
 The most essential representation of data (zero or one) at Layer 1 of the Open Systems Interconnection (OSI) model.
  
 ### Bot :
