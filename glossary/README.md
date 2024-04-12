@@ -111,65 +111,65 @@ System capabilities designed to detect and prevent the unauthorized use and tran
 ### Decryption :
 The reverse process from encryption. It is the process of converting a ciphertext message back into plaintext through the use of the cryptographic algorithm and the appropriate key for decryption (which is the same for symmetric encryption, but different for asymmetric encryption). This term is also used interchangeably with “deciphering.”
 
-De-encapsulation :
+### De-encapsulation :
 The opposite process of encapsulation, in which bundles of data are unpacked or revealed.
 
-Defense in Depth :
+### Defense in Depth :
 Information security strategy integrating people, technology, and operations capabilities to establish variable barriers across multiple layers and missions of the organization.
 
-Degaussing :
+### Degaussing :
 A technique of erasing data on disk or tape (including video tapes) that, when performed properly, ensures that there is insufficient magnetic remanence to reconstruct data.
 
-Denial-of-Service (DoS) :
+### Denial-of-Service (DoS) :
 The prevention of authorized access to resources or the delaying of time-critical operations. (Time-critical may be milliseconds or it may be hours, depending upon the service provided.)
 
-Digital Signature :
+### Digital Signature :
 The result of a cryptographic transformation of data which, when properly implemented, provides the services of origin authentication, data integrity, and signer non-repudiation.
 
-Disaster Recovery (DR) :
+### Disaster Recovery (DR) :
 In information systems terms, the activities necessary to restore IT and communications services to an organization during and after an outage, disruption or disturbance of any kind or scale.
 
-Disaster Recovery Plan (DRP) :
+### Disaster Recovery Plan (DRP) :
 The processes, policies and procedures related to preparing for recovery or continuation of an organization's critical business functions, technology infrastructure, systems and applications after the organization experiences a disaster. A disaster is when an organization’s critical business function(s) cannot be performed at an acceptable level within a predetermined period following a disruption.
 
-Discretionary Access Control (DAC) :
+### Discretionary Access Control (DAC) :
 A certain amount of access control is left to the discretion of the object’s owner, or anyone else who is authorized to control the object’s access. The owner can determine who should have access rights to an object and what those rights should be.
 
-Domain Name Service (DNS) :
+### Domain Name Service (DNS) :
 This acronym can be applied to three interrelated elements: a service, a physical server and a network protocol.
 
-Egress Monitoring :
+### Egress Monitoring :
 Monitoring of outgoing network traffic.
 
-Encapsulation :
+### Encapsulation :
 Enforcement of data hiding and code hiding during all phases of software development and operational use. Bundling together data and methods is the process of encapsulation; its opposite process may be called unpacking, revealing, or using other terms. Also used to refer to taking any set of data and packaging it or hiding it in another data structure, as is common in network protocols and encryption.
 
-Encrypt :
+### Encrypt :
 To protect private information by putting it into a form that can only be read by people who have permission to do so.
 
-Encryption :
+### Encryption :
 The process and act of converting the message from its plaintext to ciphertext. Sometimes it is also referred to as enciphering. The two terms are sometimes used interchangeably in literature and have similar meanings.
 
-Encryption System :
+### Encryption System :
 The total set of algorithms, processes, hardware, software and procedures that taken together provide an encryption and decryption capability.
 
-Event :
+### Event :
 Any observable occurrence in a network or system.
 
-Exploit :
+### Exploit :
 A particular attack. It is named this way because these attacks exploit system vulnerabilities.
 
-File Transfer Protocol (FTP) :
+### File Transfer Protocol (FTP) :
 The internet protocol (and program) used to transfer files between hosts.
 
-Firewalls :
+### Firewalls :
 Devices that enforce administrative security policies by filtering incoming traffic based on a set of rules.
 
-Fragment Attack :
+### Fragment Attack :
 In a fragment attack, an attacker fragments traffic in such a way that a system is unable to put data packets back together.
 
-General Data Protection Regulation (GDPR) :
+### General Data Protection Regulation (GDPR) :
 In 2016, the European Union passed comprehensive legislation that addresses personal privacy, deeming it an individual human right.
 
-Governance :
+### Governance :
 The process of how an organization is managed; usually includes all aspects of how decisions are made for that organization, such as policies, roles and procedures.
