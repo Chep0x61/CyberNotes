@@ -326,3 +326,108 @@ A set of rules (formats and procedures) to implement and control some type of as
  
 ### Public Cloud :
 The cloud infrastructure is provisioned for open use by the general public. It may be owned, managed, and operated by a business, academic, or government organization, or some combination of them. It exists on the premises of the cloud provider.
+
+### Qualitative Risk Analysis :
+A method for risk analysis that is based on the assignment of a descriptor such as low, medium or high.
+ 
+### Quantitative Risk Analysis :
+A method for risk analysis where numerical values are assigned to both impact and likelihood based on statistical probabilities and monetarized valuation of loss or gain.
+ 
+### Ransomware :
+A type of malicious software that locks the computer screen or files, thus preventing or limiting a user from accessing their system and data until money is paid.
+ 
+### Records :
+The recordings (automated and/or manual) of evidence of activities performed or results achieved (e.g., forms, reports, test results), which serve as a basis for verifying that the organization and the information system are performing as intended. Also used to refer to units of related data fields (i.e., groups of data fields that can be accessed by a program and that contain the complete set of information on particular items).
+ 
+### Records Retention :
+A practice based on the records life cycle, according to which records are retained as long as necessary, and then are destroyed after the appropriate time interval has elapsed.
+ 
+### Remanence :
+Residual information remaining on storage media after clearing.
+ 
+### Request for Change (RFC) :
+The first stage of change management, wherein a change in procedure or product is sought by a stakeholder.
+ 
+### Risk :
+A measure of the extent to which an entity is threatened by a potential circumstance or event.
+ 
+### Risk Acceptance :
+Determining that the potential benefits of a business function outweigh the possible risk impact/likelihood and performing that business function with no other action.
+ 
+### Risk Assessment :
+The process of identifying and analyzing risks to organizational operations (including mission, functions, image, or reputation), organizational assets, individuals and other organizations. The analysis performed as part of risk management which incorporates threat and vulnerability analyses and considers mitigations provided by security controls planned or in place.
+ 
+### Risk Avoidance :
+Determining that the impact and/or likelihood of a specific risk is too great to be offset by the potential benefits and not performing a certain business function because of that determination.
+ 
+### Risk Management :
+The process of identifying, evaluating and controlling threats, including all the phases of risk context (or frame), risk assessment, risk treatment and risk monitoring.
+ 
+### Risk Management Framework :
+A structured approach used to oversee and manage risk for an enterprise.
+ 
+### Risk Mitigation :
+Putting security controls in place to reduce the possible impact and/or likelihood of a specific risk.
+ 
+### Risk Tolerance :
+The level of risk an entity is willing to assume in order to achieve a potential desired result.
+ 
+### Risk threshold :
+Risk appetite and acceptable risk - are also terms used synonymously with risk tolerance.
+ 
+### Risk Transference : 
+Paying an external party to accept the financial impact of a given risk.
+ 
+### Risk Treatment :
+The determination of the best way to address an identified risk.
+ 
+### Role-Based Access Control (RBAC) :
+An access control system that sets up user permissions based on roles.
+ 
+### Rule :
+An instruction developed to allow or deny access to a system by comparing the validated identity of the subject to an access control list.
+ 
+### Security Controls :
+The management, operational and technical controls (i.e., safeguards or countermeasures) prescribed for an information system to protect the confidentiality, integrity and availability of the system and its information.
+ 
+### Security Governance :
+The entirety of the policies, roles and processes the organization uses to make security decisions in an organization.
+ 
+### Security Operations Center :
+A centralized organizational function fulfilled by an information security team that monitors, detects and analyzes events on the network or system to prevent and resolve issues before they result in business disruptions.
+ 
+### Segregation of Duties :
+The practice of ensuring that an organizational process cannot be completed by a single person; forces collusion as a means to reduce insider threats. Also commonly known as Separation of Duties.
+ 
+### Sensitivity :
+A measure of the importance assigned to information by its owner, for the purpose of denoting its need for protection.
+ 
+### Simple Mail Transport Protocol (SMTP) :
+The standard communication protocol for sending and receiving emails between senders and receivers.
+ 
+### Single-Factor Authentication :
+Use of just one of the three available factors (something you know, something you have, something you are) to carry out the authentication process being requested.  
+ 
+### Social Engineering :
+Tactics to infiltrate systems via email, phone, text, or social media, often impersonating a person or agency in authority or offering a gift. A low-tech method would be simply following someone into a secure building. 
+ 
+### Software :
+Computer programs and associated data that may be dynamically written or modified during execution.
+ 
+### Software as a Service (SaaS) :
+The cloud customer uses the cloud provider’s applications running within a cloud infrastructure. The applications are accessible from various client devices through either a thin client interface, such as a web browser or a program interface. The consumer does not manage or control the underlying cloud infrastructure including network, servers, operating systems, storage, or even individual application capabilities, with the possible exception of limited user-specific application configuration settings.
+
+### Spoofing :
+Faking the sending address of a transmission to gain illegal entry into a secure system.
+ 
+### State :
+The condition an entity is in at a point in time.
+ 
+### Subject :
+Generally an individual, process or device causing information to flow among objects or change to the system state.
+ 
+### Symmetric Encryption :
+An algorithm that uses the same key in both the encryption and the decryption processes.
+ 
+### System Integrity :
+The quality that a system has when it performs its intended function in an unimpaired manner, free from unauthorized manipulation of the system, whether intentional or accidental.
